@@ -177,3 +177,7 @@ p {
     transform: rotate(0);
   }
 }
+
+.footer-link {
+  margin: 0% 2% 2%;
+}
